@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Create from "./create/page";
 import Users from "./users/page";
 
